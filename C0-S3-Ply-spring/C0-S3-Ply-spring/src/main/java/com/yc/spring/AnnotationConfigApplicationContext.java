@@ -58,9 +58,7 @@ public class AnnotationConfigApplicationContext {
             } else if (file.isDirectory()) {
                 scanComponent(file.getAbsolutePath(),list);
             }else {
-                //新建的文件对象
-//                file.createNewFile();
-//                file.mkdirs();
+
             }
         }
     }
