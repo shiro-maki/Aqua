@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+     http://www.springframework.org/schema/context/spring-context.xsd">
+	<bean class="com.yc.cinema.bean.User" primary="true"></bean>
+
+	<bean class="com.yc.cinema.bean.User" id="user" factory-method="create"></bean>
+	<bean class="com.yc.cinema.bean.User" id="user1" factory-bean="user" factory-method="newInstance"></bean>
+	<bean class="com.yc.cinema.bean.User" id="user2" init-method="a" >
+		<property name="username" value="王五"></property>
+	</bean>
+	<bean class="com.yc.cinema.bean.User" id="user3" init-method="a" destroy-method="b" lazy-init="true" scope="prototype">
+		<constructor-arg name="username" value="赵六"></constructor-arg>
+	</bean>
+
+	<bean class="com.yc.cinema.bean.Movie" id="movie">
+		<property name="user">
+			<bean class="com.yc.cinema.bean.User" primary="true">
+				<property name="username" value="赵六"></property>
+			</bean>
+		</property>
+	</bean>
+
+<!--&lt;!&ndash;	自动注入&ndash;&gt;-->
+<!--	<bean class="com.yc.cinema.bean.Movie" id="movie" autowire="byType">-->
+<!--		aut-->
+<!--	</bean>-->
+</beans>
