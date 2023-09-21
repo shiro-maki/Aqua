@@ -13,7 +13,16 @@ public class Account {
 	private Integer id;		// 主键
 	private String name;	// 姓名
 	private Double money;	// 余额
-	
+	private Double balance;
+
+	public Double getBalance() {
+		return balance;
+	}
+
+	public void setBalance(Double balance) {
+		this.balance = balance;
+	}
+
 	public Integer getId() {
 		return id;
 	}
@@ -55,7 +64,11 @@ public class Account {
 
 	@Override
 	public String toString() {
-		return "Account [id=" + id + ", name=" + name + ", money=" + money + "]";
+		return "Account{" +
+				"id=" + id +
+				", name='" + name + '\'' +
+				", money=" + money +
+				", balance=" + balance +
+				'}';
 	}
-
 }
