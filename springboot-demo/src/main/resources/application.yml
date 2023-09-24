@@ -1,0 +1,45 @@
+server.port: 80
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql:///mybank
+demo:
+  my-name: 测试松散
+  name: zhangsan
+  age: 22
+  likes: [ 篮球,看书,音乐 ]
+  schools:
+    - XXX小学
+    - YYY中学
+    - Zzz大学
+  friends:
+    - name: wangwu
+      age: 33
+      likes: [ 乒乓球,羽毛球,足球 ]
+    - name: zhaoliu
+      age: 44
+      likes: [ 手游,早冰,游泳 ]
+  familys:
+    father: 王五
+    mather: 赵六
+  dogs:
+    - name: 旺财
+      age: 4
+    - name: 来福
+      age: 5
+
+---
+server:
+  port: 8080
+spring:
+  profiles:
+    test
+  application:
+    name: demo
+

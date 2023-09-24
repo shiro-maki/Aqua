@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "demo",
+      "type": "com.example.springbootdemo.bean.User",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "demo.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.dogs",
+      "type": "java.util.List<java.util.Map<java.lang.String,java.lang.Object>>",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.familys",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.friends",
+      "type": "java.util.List<com.example.springbootdemo.bean.User>",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.likes",
+      "type": "java.lang.String[]",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.my-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    },
+    {
+      "name": "demo.schools",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.example.springbootdemo.bean.User"
+    }
+  ],
+  "hints": []
+}
