@@ -3,21 +3,171 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c4f49a6-cc74-4de9-897a-5d18627b6b3f" name="Changes" comment="23">
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/IocConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/Actor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/Cinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/Comments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/Hall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/MovieActor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/MovieImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/MovieType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/ActorBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/BizException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/CinemaBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/CommentsBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/HallBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/MovieBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/biz/UserBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/ActorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/CinemaDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/CommentsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/HallDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/MovieActorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/MovieDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/MovieImageDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/MovieTypeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/TypeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/test/BeanTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/web/IndexAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/web/MovieAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/cinema/web/UserAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/AOPApplicationContext$AspectInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/AOPApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/AnnotationConfigApplicationContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/AopConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/BeanInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/JdbcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/CGLibProxy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/CGLibProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/JdkProxy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/JdkProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/MyAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/Proxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/SubClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/SubClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/律师.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/aop/被告.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/bean/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/bean/Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/biz/AccountBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/biz/impl/AccountBizImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bank/dao/RecordDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/bean/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/bean/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/bean/Reply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/bean/Topic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/bean/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/biz/UserBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bbs/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bmi/BmiFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bmi/BmiMeasurer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bmi/Container.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bmi/Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bmi/IMeasurable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/bmi/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/jdbc/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/jdbc/BankBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/jdbc/RecordDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/test/AopTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/test/JdbcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C0-S3-Ply-spring/C0-S3-Ply-spring/target/classes/com/yc/spring/test/MyAopTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/MAVEN/apache-maven-3.8.5" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../MAVEN/apache-maven-3.8.5" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VkusVlKJxx25nfgsWfBpFFfsa0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/YC/github/L.Tang",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4f49a6-cc74-4de9-897a-5d18627b6b3f" name="Changes" comment="" />
+      <created>1695392607480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695392607480</updated>
+      <workItem from="1695392608472" duration="281000" />
+      <workItem from="1695392915885" duration="548000" />
+      <workItem from="1695519175655" duration="1564000" />
+    </task>
+    <task id="LOCAL-00001" summary="23">
+      <option name="closed" value="true" />
+      <created>1695392992751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695392992751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23" />
+    <option name="LAST_COMMIT_MESSAGE" value="23" />
+  </component>
 </project>

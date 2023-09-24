@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="829a905c-35f3-4bbd-9855-f5e3b6e31847" name="Changes" comment="第一次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VCAI0afZ6LWxaTkf63PEkgd6Sj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/YC/github/L.Tang/spring-newnewnew",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5121328",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "6c66e3bd14fdb1b512696e1bbf61f94f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\YC\github\L.Tang\C0-S3-Ply-spring\C0-S3-Ply-spring\src\main\java\com\yc\spring" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yc.cinema" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.JdbcTest.test2">
+    <configuration name="AopTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C0-S3-Ply-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.spring.test.AopTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C0-S3-Ply-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.spring.test.JdbcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C0-S3-Ply-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.spring.test.JdbcTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C0-S3-Ply-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.spring.test.JdbcTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyAopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="C0-S3-Ply-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yc.spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yc.spring.test" />
+      <option name="MAIN_CLASS_NAME" value="com.yc.spring.test.MyAopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcTest.test2" />
+        <item itemvalue="JUnit.JdbcTest.test1" />
+        <item itemvalue="JUnit.JdbcTest" />
+        <item itemvalue="JUnit.MyAopTest" />
+        <item itemvalue="JUnit.AopTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829a905c-35f3-4bbd-9855-f5e3b6e31847" name="Changes" comment="" />
+      <created>1694329605583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694329605583</updated>
+      <workItem from="1694329606733" duration="8897000" />
+      <workItem from="1694415350727" duration="6471000" />
+      <workItem from="1694429628538" duration="7782000" />
+      <workItem from="1694437693788" duration="1692000" />
+      <workItem from="1694585753865" duration="13807000" />
+      <workItem from="1694609320218" duration="1242000" />
+      <workItem from="1694610572968" duration="204000" />
+      <workItem from="1694610785714" duration="108000" />
+      <workItem from="1694610900461" duration="301000" />
+      <workItem from="1694611211004" duration="440000" />
+      <workItem from="1694611660521" duration="594000" />
+      <workItem from="1694687980102" duration="3355000" />
+      <workItem from="1694860738691" duration="18669000" />
+      <workItem from="1695120912035" duration="1547000" />
+      <workItem from="1695205645917" duration="3508000" />
+      <workItem from="1695292656836" duration="653000" />
+      <workItem from="1695302684216" duration="122000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1694437805411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694437805411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1694438958911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694438958911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1694690689234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694690689234</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1695302708505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695302708505</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yc/spring/AnnotationConfigApplicationContext.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yc/spring/bank/dao/AccountDao.java</url>
+          <line>22</line>
+          <properties class="com.yc.spring.bank.dao.AccountDao" method="selectById">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
